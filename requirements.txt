@@ -1,0 +1,6 @@
+nest_asyncio
+os
+asyncio
+telegram
+telegram.ext
+mistralai
